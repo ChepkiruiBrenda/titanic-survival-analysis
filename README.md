@@ -22,4 +22,4 @@ This project explores passenger survival patterns on the Titanic using structure
 
 ---
 
-> By Brenda Chepkirui ✨
+> By Brenda Chepkirui
