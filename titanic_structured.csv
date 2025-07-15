@@ -1,0 +1,890 @@
+Title,Sex,Age,AgeGroup,Fare,FareBand,Pclass,SibSp,Parch,Survived,Embarked_C,Embarked_Q,Embarked_S,FamilySize
+Mr,0,22.0,YoungAdult,7.25,Low,Lower,1,0,0,False,False,True,2
+Mrs,1,38.0,Adult,71.2833,Very High,Upper,1,0,1,True,False,False,2
+Miss,1,26.0,YoungAdult,7.925,Mid,Lower,0,0,1,False,False,True,1
+Mrs,1,35.0,YoungAdult,53.1,Very High,Upper,1,0,1,False,False,True,2
+Mr,0,35.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,8.4583,Mid,Lower,0,0,0,False,True,False,1
+Mr,0,54.0,Adult,51.8625,Very High,Upper,0,0,0,False,False,True,1
+Master,0,2.0,Child,21.075,High,Lower,3,1,0,False,False,True,5
+Mrs,1,27.0,YoungAdult,11.1333,Mid,Lower,0,2,1,False,False,True,3
+Mrs,1,14.0,Teen,30.0708,High,Middle,1,0,1,True,False,False,2
+Miss,1,4.0,Child,16.7,High,Lower,1,1,1,False,False,True,3
+Miss,1,58.0,Adult,26.55,High,Upper,0,0,1,False,False,True,1
+Mr,0,20.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,39.0,Adult,31.275,Very High,Lower,1,5,0,False,False,True,7
+Miss,1,14.0,Teen,7.8542,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,55.0,Adult,16.0,High,Middle,0,0,1,False,False,True,1
+Master,0,2.0,Child,29.125,High,Lower,4,1,0,False,True,False,6
+Mr,0,28.0,YoungAdult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Mrs,1,31.0,YoungAdult,18.0,High,Lower,1,0,0,False,False,True,2
+Mrs,1,28.0,YoungAdult,7.225,Low,Lower,0,0,1,True,False,False,1
+Mr,0,35.0,YoungAdult,26.0,High,Middle,0,0,0,False,False,True,1
+Mr,0,34.0,YoungAdult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Miss,1,15.0,Teen,8.0292,Mid,Lower,0,0,1,False,True,False,1
+Mr,0,28.0,YoungAdult,35.5,Very High,Upper,0,0,1,False,False,True,1
+Miss,1,8.0,Child,21.075,High,Lower,3,1,0,False,False,True,5
+Mrs,1,38.0,Adult,31.3875,Very High,Lower,1,5,1,False,False,True,7
+Mr,0,28.0,YoungAdult,7.225,Low,Lower,0,0,0,True,False,False,1
+Mr,0,19.0,YoungAdult,263.0,Very High,Upper,3,2,0,False,False,True,6
+Miss,1,28.0,YoungAdult,7.8792,Low,Lower,0,0,1,False,True,False,1
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Rare,0,40.0,Adult,27.7208,High,Upper,0,0,0,True,False,False,1
+Mrs,1,28.0,YoungAdult,146.5208,Very High,Upper,1,0,1,True,False,False,2
+Miss,1,28.0,YoungAdult,7.75,Low,Lower,0,0,1,False,True,False,1
+Mr,0,66.0,Senior,10.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,82.1708,Very High,Upper,1,0,0,True,False,False,2
+Mr,0,42.0,Adult,52.0,Very High,Upper,1,0,0,False,False,True,2
+Mr,0,28.0,YoungAdult,7.2292,Low,Lower,0,0,1,True,False,False,1
+Mr,0,21.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,18.0,Teen,18.0,High,Lower,2,0,0,False,False,True,3
+Miss,1,14.0,Teen,11.2417,Mid,Lower,1,0,1,True,False,False,2
+Mrs,1,40.0,Adult,9.475,Mid,Lower,1,0,0,False,False,True,2
+Mrs,1,27.0,YoungAdult,21.0,High,Middle,1,0,0,False,False,True,2
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,True,False,False,1
+Miss,1,3.0,Child,41.5792,Very High,Middle,1,2,1,True,False,False,4
+Miss,1,19.0,YoungAdult,7.8792,Low,Lower,0,0,1,False,True,False,1
+Mr,0,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,15.5,High,Lower,1,0,0,False,True,False,2
+Miss,1,28.0,YoungAdult,7.75,Low,Lower,0,0,1,False,True,False,1
+Mr,0,28.0,YoungAdult,21.6792,High,Lower,2,0,0,True,False,False,3
+Mrs,1,18.0,Teen,17.8,High,Lower,1,0,0,False,False,True,2
+Master,0,7.0,Child,39.6875,Very High,Lower,4,1,0,False,False,True,6
+Mr,0,21.0,YoungAdult,7.8,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,49.0,Adult,76.7292,Very High,Upper,1,0,1,True,False,False,2
+Mrs,1,29.0,YoungAdult,26.0,High,Middle,1,0,1,False,False,True,2
+Mr,0,65.0,Senior,61.9792,Very High,Upper,0,1,0,True,False,False,2
+Mr,0,28.0,YoungAdult,35.5,Very High,Upper,0,0,1,False,False,True,1
+Miss,1,21.0,YoungAdult,10.5,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,28.5,YoungAdult,7.2292,Low,Lower,0,0,0,True,False,False,1
+Miss,1,5.0,Child,27.75,High,Middle,1,2,1,False,False,True,4
+Master,0,11.0,Child,46.9,Very High,Lower,5,2,0,False,False,True,8
+Mr,0,22.0,YoungAdult,7.2292,Low,Lower,0,0,0,True,False,False,1
+Mr,0,45.0,Adult,83.475,Very High,Upper,1,0,0,False,False,True,2
+Master,0,4.0,Child,27.9,High,Lower,3,2,0,False,False,True,6
+Mr,0,28.0,YoungAdult,27.7208,High,Upper,0,0,0,True,False,False,1
+Master,0,28.0,YoungAdult,15.2458,High,Lower,1,1,1,True,False,False,3
+Mrs,1,29.0,YoungAdult,10.5,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,19.0,YoungAdult,8.1583,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,17.0,Teen,7.925,Mid,Lower,4,2,1,False,False,True,7
+Mr,0,26.0,YoungAdult,8.6625,Mid,Lower,2,0,0,False,False,True,3
+Mr,0,32.0,YoungAdult,10.5,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,16.0,Teen,46.9,Very High,Lower,5,2,0,False,False,True,8
+Mr,0,21.0,YoungAdult,73.5,Very High,Middle,0,0,0,False,False,True,1
+Mr,0,26.0,YoungAdult,14.4542,Mid,Lower,1,0,0,True,False,False,2
+Mr,0,32.0,YoungAdult,56.4958,Very High,Lower,0,0,1,False,False,True,1
+Mr,0,25.0,YoungAdult,7.65,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Master,0,0.83,Child,29.0,High,Middle,0,2,1,False,False,True,3
+Miss,1,30.0,YoungAdult,12.475,Mid,Lower,0,0,1,False,False,True,1
+Mr,0,22.0,YoungAdult,9.0,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,29.0,YoungAdult,9.5,Mid,Lower,0,0,1,False,False,True,1
+Miss,1,28.0,YoungAdult,7.7875,Low,Lower,0,0,1,False,True,False,1
+Mr,0,28.0,YoungAdult,47.1,Very High,Upper,0,0,0,False,False,True,1
+Miss,1,17.0,Teen,10.5,Mid,Middle,0,0,1,False,False,True,1
+Mrs,1,33.0,YoungAdult,15.85,High,Lower,3,0,1,False,False,True,4
+Mr,0,16.0,Teen,34.375,Very High,Lower,1,3,0,False,False,True,5
+Mr,0,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,23.0,YoungAdult,263.0,Very High,Upper,3,2,1,False,False,True,6
+Mr,0,24.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,29.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,20.0,YoungAdult,7.8542,Low,Lower,0,0,0,False,False,True,1
+Mr,0,46.0,Adult,61.175,Very High,Upper,1,0,0,False,False,True,2
+Mr,0,26.0,YoungAdult,20.575,High,Lower,1,2,0,False,False,True,4
+Mr,0,59.0,Adult,7.25,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,71.0,Senior,34.6542,Very High,Upper,0,0,0,True,False,False,1
+Mr,0,23.0,YoungAdult,63.3583,Very High,Upper,0,1,1,True,False,False,2
+Mrs,1,34.0,YoungAdult,23.0,High,Middle,0,1,1,False,False,True,2
+Mr,0,34.0,YoungAdult,26.0,High,Middle,1,0,0,False,False,True,2
+Miss,1,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,21.0,YoungAdult,77.2875,Very High,Upper,0,1,0,False,False,True,2
+Mr,0,33.0,YoungAdult,8.6542,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,37.0,Adult,7.925,Mid,Lower,2,0,0,False,False,True,3
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Miss,1,21.0,YoungAdult,7.65,Low,Lower,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,7.775,Low,Lower,0,0,1,False,False,True,1
+Mr,0,38.0,Adult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,24.15,High,Lower,1,0,1,False,True,False,2
+Mr,0,47.0,Adult,52.0,Very High,Upper,0,0,0,False,False,True,1
+Miss,1,14.5,Teen,14.4542,Mid,Lower,1,0,0,True,False,False,2
+Mr,0,22.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,20.0,YoungAdult,9.825,Mid,Lower,1,0,0,False,False,True,2
+Miss,1,17.0,Teen,14.4583,High,Lower,0,0,0,True,False,False,1
+Mr,0,21.0,YoungAdult,7.925,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,70.5,Senior,7.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,29.0,YoungAdult,21.0,High,Middle,1,0,0,False,False,True,2
+Mr,0,24.0,YoungAdult,247.5208,Very High,Upper,0,1,0,True,False,False,2
+Miss,1,2.0,Child,31.275,Very High,Lower,4,2,0,False,False,True,7
+Mr,0,21.0,YoungAdult,73.5,Very High,Middle,2,0,0,False,False,True,3
+Mr,0,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,32.5,YoungAdult,30.0708,High,Middle,1,0,0,True,False,False,2
+Miss,1,32.5,YoungAdult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,54.0,Adult,77.2875,Very High,Upper,0,1,0,False,False,True,2
+Master,0,12.0,Child,11.2417,Mid,Lower,1,0,1,True,False,False,2
+Mr,0,28.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,24.0,YoungAdult,7.1417,Low,Lower,0,0,1,False,False,True,1
+Miss,1,28.0,YoungAdult,22.3583,High,Lower,1,1,1,True,False,False,3
+Mr,0,45.0,Adult,6.975,Low,Lower,0,0,0,False,False,True,1
+Mr,0,33.0,YoungAdult,7.8958,Low,Lower,0,0,0,True,False,False,1
+Mr,0,20.0,YoungAdult,7.05,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,47.0,Adult,14.5,High,Lower,1,0,0,False,False,True,2
+Mrs,1,29.0,YoungAdult,26.0,High,Middle,1,0,1,False,False,True,2
+Mr,0,25.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,23.0,YoungAdult,15.0458,High,Middle,0,0,0,True,False,False,1
+Miss,1,19.0,YoungAdult,26.2833,High,Upper,0,2,1,False,False,True,3
+Mr,0,37.0,Adult,53.1,Very High,Upper,1,0,0,False,False,True,2
+Mr,0,16.0,Teen,9.2167,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,24.0,YoungAdult,79.2,Very High,Upper,0,0,0,True,False,False,1
+Mrs,1,28.0,YoungAdult,15.2458,High,Lower,0,2,0,True,False,False,3
+Miss,1,22.0,YoungAdult,7.75,Low,Lower,0,0,1,False,False,True,1
+Mrs,1,24.0,YoungAdult,15.85,High,Lower,1,0,1,False,False,True,2
+Mr,0,19.0,YoungAdult,6.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,18.0,Teen,11.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,19.0,YoungAdult,36.75,Very High,Middle,1,1,0,False,False,True,3
+Mr,0,27.0,YoungAdult,7.7958,Low,Lower,0,0,1,False,False,True,1
+Miss,1,9.0,Child,34.375,Very High,Lower,2,2,0,False,False,True,5
+Mr,0,36.5,Adult,26.0,High,Middle,0,2,0,False,False,True,3
+Rare,0,42.0,Adult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Rare,0,51.0,Adult,12.525,Mid,Middle,0,0,0,False,False,True,1
+Mrs,1,22.0,YoungAdult,66.6,Very High,Upper,1,0,1,False,False,True,2
+Mr,0,55.5,Adult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,40.5,Adult,14.5,High,Lower,0,2,0,False,False,True,3
+Mr,0,28.0,YoungAdult,7.3125,Low,Lower,0,0,0,False,False,True,1
+Mr,0,51.0,Adult,61.3792,Very High,Upper,0,1,0,True,False,False,2
+Miss,1,16.0,Teen,7.7333,Low,Lower,0,0,1,False,True,False,1
+Mr,0,30.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,8.6625,Mid,Lower,0,0,0,False,False,True,1
+Master,0,28.0,YoungAdult,69.55,Very High,Lower,8,2,0,False,False,True,11
+Mr,0,44.0,Adult,16.1,High,Lower,0,1,0,False,False,True,2
+Mrs,1,40.0,Adult,15.75,High,Middle,0,0,1,False,False,True,1
+Mr,0,26.0,YoungAdult,7.775,Low,Lower,0,0,0,False,False,True,1
+Mr,0,17.0,Teen,8.6625,Mid,Lower,0,0,0,False,False,True,1
+Master,0,1.0,Child,39.6875,Very High,Lower,4,1,0,False,False,True,6
+Master,0,9.0,Child,20.525,High,Lower,0,2,1,False,False,True,3
+Mrs,1,28.0,YoungAdult,55.0,Very High,Upper,0,1,1,False,False,True,2
+Mrs,1,45.0,Adult,27.9,High,Lower,1,4,0,False,False,True,6
+Mr,0,28.0,YoungAdult,25.925,High,Upper,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,56.4958,Very High,Lower,0,0,0,False,False,True,1
+Mr,0,61.0,Senior,33.5,Very High,Upper,0,0,0,False,False,True,1
+Master,0,4.0,Child,29.125,High,Lower,4,1,0,False,True,False,6
+Miss,1,1.0,Child,11.1333,Mid,Lower,1,1,1,False,False,True,3
+Mr,0,21.0,YoungAdult,7.925,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,56.0,Adult,30.6958,High,Upper,0,0,0,True,False,False,1
+Mr,0,18.0,Teen,7.8542,Low,Lower,1,1,0,False,False,True,3
+Master,0,28.0,YoungAdult,25.4667,High,Lower,3,1,0,False,False,True,5
+Miss,1,50.0,Adult,28.7125,High,Upper,0,0,0,True,False,False,1
+Mr,0,30.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,36.0,Adult,0.0,Low,Lower,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,69.55,Very High,Lower,8,2,0,False,False,True,11
+Mr,0,28.0,YoungAdult,15.05,High,Middle,0,0,0,True,False,False,1
+Master,0,9.0,Child,31.3875,Very High,Lower,4,2,0,False,False,True,7
+Master,0,1.0,Child,39.0,Very High,Middle,2,1,1,False,False,True,4
+Miss,1,4.0,Child,22.025,High,Lower,0,2,1,False,False,True,3
+Mr,0,28.0,YoungAdult,50.0,Very High,Upper,0,0,0,False,False,True,1
+Mrs,1,28.0,YoungAdult,15.5,High,Lower,1,0,1,False,True,False,2
+Mr,0,45.0,Adult,26.55,High,Upper,0,0,1,False,False,True,1
+Mr,0,40.0,Adult,15.5,High,Lower,1,1,0,False,True,False,3
+Mr,0,36.0,Adult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,32.0,YoungAdult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,19.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,19.0,YoungAdult,7.8542,Low,Lower,1,0,1,False,False,True,2
+Master,0,3.0,Child,26.0,High,Middle,1,1,1,False,False,True,3
+Mrs,1,44.0,Adult,27.7208,High,Upper,0,0,1,True,False,False,1
+Miss,1,58.0,Adult,146.5208,Very High,Upper,0,0,1,True,False,False,1
+Mr,0,28.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,42.0,Adult,8.4042,Mid,Lower,0,1,0,False,False,True,2
+Miss,1,28.0,YoungAdult,7.75,Low,Lower,0,0,1,False,True,False,1
+Miss,1,24.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,9.5,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,69.55,Very High,Lower,8,2,0,False,False,True,11
+Mr,0,34.0,YoungAdult,6.4958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,45.5,Adult,7.225,Low,Lower,0,0,0,True,False,False,1
+Mr,0,18.0,Teen,8.05,Mid,Lower,0,0,1,False,False,True,1
+Miss,1,2.0,Child,10.4625,Mid,Lower,0,1,0,False,False,True,2
+Mr,0,32.0,YoungAdult,15.85,High,Lower,1,0,0,False,False,True,2
+Mr,0,26.0,YoungAdult,18.7875,High,Lower,0,0,1,True,False,False,1
+Miss,1,16.0,Teen,7.75,Low,Lower,0,0,1,False,True,False,1
+Mr,0,40.0,Adult,31.0,High,Upper,0,0,1,True,False,False,1
+Mr,0,24.0,YoungAdult,7.05,Low,Lower,0,0,0,False,False,True,1
+Miss,1,35.0,YoungAdult,21.0,High,Middle,0,0,1,False,False,True,1
+Mr,0,22.0,YoungAdult,7.25,Low,Lower,0,0,0,False,False,True,1
+Mr,0,30.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.75,Low,Lower,1,0,0,False,True,False,2
+Miss,1,31.0,YoungAdult,113.275,Very High,Upper,1,0,1,True,False,False,2
+Miss,1,27.0,YoungAdult,7.925,Mid,Lower,0,0,1,False,False,True,1
+Mr,0,42.0,Adult,27.0,High,Middle,1,0,0,False,False,True,2
+Miss,1,32.0,YoungAdult,76.2917,Very High,Upper,0,0,1,True,False,False,1
+Mr,0,30.0,YoungAdult,10.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,16.0,Teen,8.05,Mid,Lower,0,0,1,False,False,True,1
+Mr,0,27.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,51.0,Adult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,38.0,Adult,90.0,Very High,Upper,1,0,1,False,False,True,2
+Mr,0,22.0,YoungAdult,9.35,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,19.0,YoungAdult,10.5,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,20.5,YoungAdult,7.25,Low,Lower,0,0,0,False,False,True,1
+Mr,0,18.0,Teen,13.0,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,25.4667,High,Lower,3,1,0,False,False,True,5
+Mrs,1,35.0,YoungAdult,83.475,Very High,Upper,1,0,1,False,False,True,2
+Mr,0,29.0,YoungAdult,7.775,Low,Lower,0,0,0,False,False,True,1
+Mr,0,59.0,Adult,13.5,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,5.0,Child,31.3875,Very High,Lower,4,2,1,False,False,True,7
+Mr,0,24.0,YoungAdult,10.5,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,7.55,Low,Lower,0,0,0,False,False,True,1
+Mr,0,44.0,Adult,26.0,High,Middle,1,0,0,False,False,True,2
+Miss,1,8.0,Child,26.25,High,Middle,0,2,1,False,False,True,3
+Mr,0,19.0,YoungAdult,10.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,33.0,YoungAdult,12.275,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,14.4542,Mid,Lower,1,0,0,True,False,False,2
+Miss,1,28.0,YoungAdult,15.5,High,Lower,1,0,1,False,True,False,2
+Mr,0,29.0,YoungAdult,10.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,22.0,YoungAdult,7.125,Low,Lower,0,0,0,False,False,True,1
+Mr,0,30.0,YoungAdult,7.225,Low,Lower,0,0,0,True,False,False,1
+Rare,0,44.0,Adult,90.0,Very High,Upper,2,0,0,False,True,False,3
+Miss,1,25.0,YoungAdult,7.775,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,24.0,YoungAdult,14.5,High,Middle,0,2,1,False,False,True,3
+Mr,0,37.0,Adult,52.5542,Very High,Upper,1,1,1,False,False,True,3
+Rare,0,54.0,Adult,26.0,High,Middle,1,0,0,False,False,True,2
+Mr,0,28.0,YoungAdult,7.25,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,29.0,YoungAdult,10.4625,Mid,Lower,1,1,0,False,False,True,3
+Mr,0,62.0,Senior,26.55,High,Upper,0,0,0,False,False,True,1
+Mr,0,30.0,YoungAdult,16.1,High,Lower,1,0,0,False,False,True,2
+Mrs,1,41.0,Adult,20.2125,High,Lower,0,2,0,False,False,True,3
+Mrs,1,29.0,YoungAdult,15.2458,High,Lower,0,2,1,True,False,False,3
+Mrs,1,28.0,YoungAdult,79.2,Very High,Upper,0,0,1,True,False,False,1
+Miss,1,30.0,YoungAdult,86.5,Very High,Upper,0,0,1,False,False,True,1
+Miss,1,35.0,YoungAdult,512.3292,Very High,Upper,0,0,1,True,False,False,1
+Mrs,1,50.0,Adult,26.0,High,Middle,0,1,1,False,False,True,2
+Mr,0,28.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Master,0,3.0,Child,31.3875,Very High,Lower,4,2,1,False,False,True,7
+Mr,0,52.0,Adult,79.65,Very High,Upper,1,1,0,False,False,True,3
+Mr,0,40.0,Adult,0.0,Low,Upper,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,36.0,Adult,10.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,16.0,Teen,39.6875,Very High,Lower,4,1,0,False,False,True,6
+Mr,0,25.0,YoungAdult,7.775,Low,Lower,1,0,1,False,False,True,2
+Mrs,1,58.0,Adult,153.4625,Very High,Upper,0,1,1,False,False,True,2
+Miss,1,35.0,YoungAdult,135.6333,Very High,Upper,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,31.0,High,Upper,0,0,0,False,False,True,1
+Mr,0,25.0,YoungAdult,0.0,Low,Lower,0,0,1,False,False,True,1
+Mrs,1,41.0,Adult,19.5,High,Middle,0,1,1,False,False,True,2
+Mr,0,37.0,Adult,29.7,High,Upper,0,1,0,True,False,False,2
+Miss,1,28.0,YoungAdult,7.75,Low,Lower,0,0,1,False,True,False,1
+Miss,1,63.0,Senior,77.9583,Very High,Upper,1,0,1,False,False,True,2
+Miss,1,45.0,Adult,7.75,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,0.0,Low,Middle,0,0,0,False,False,True,1
+Master,0,7.0,Child,29.125,High,Lower,4,1,0,False,True,False,6
+Mrs,1,35.0,YoungAdult,20.25,High,Lower,1,1,1,False,False,True,3
+Mr,0,65.0,Senior,7.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,28.0,YoungAdult,7.8542,Low,Lower,0,0,0,False,False,True,1
+Mr,0,16.0,Teen,9.5,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,19.0,YoungAdult,8.05,Mid,Lower,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,26.0,High,Upper,0,0,0,False,False,True,1
+Mr,0,33.0,YoungAdult,8.6625,Mid,Lower,0,0,0,True,False,False,1
+Mr,0,30.0,YoungAdult,9.5,Mid,Lower,0,0,1,False,False,True,1
+Mr,0,22.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,42.0,Adult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Miss,1,22.0,YoungAdult,7.75,Low,Lower,0,0,1,False,True,False,1
+Miss,1,26.0,YoungAdult,78.85,Very High,Upper,0,0,1,False,False,True,1
+Mrs,1,19.0,YoungAdult,91.0792,Very High,Upper,1,0,1,True,False,False,2
+Mr,0,36.0,Adult,12.875,Mid,Middle,0,0,0,True,False,False,1
+Miss,1,24.0,YoungAdult,8.85,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,24.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,27.7208,High,Upper,0,0,0,True,False,False,1
+Mr,0,23.5,YoungAdult,7.2292,Low,Lower,0,0,0,True,False,False,1
+Miss,1,2.0,Child,151.55,Very High,Upper,1,2,0,False,False,True,4
+Mr,0,28.0,YoungAdult,30.5,High,Upper,0,0,1,False,False,True,1
+Mrs,1,50.0,Adult,247.5208,Very High,Upper,0,1,1,True,False,False,2
+Miss,1,28.0,YoungAdult,7.75,Low,Lower,0,0,1,False,True,False,1
+Mr,0,28.0,YoungAdult,23.25,High,Lower,2,0,1,False,True,False,3
+Mr,0,19.0,YoungAdult,0.0,Low,Lower,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,12.35,Mid,Middle,0,0,1,False,True,False,1
+Mr,0,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Master,0,0.92,Child,151.55,Very High,Upper,1,2,1,False,False,True,4
+Miss,1,28.0,YoungAdult,110.8833,Very High,Upper,0,0,1,True,False,False,1
+Mrs,1,17.0,Teen,108.9,Very High,Upper,1,0,1,True,False,False,2
+Mr,0,30.0,YoungAdult,24.0,High,Middle,1,0,0,True,False,False,2
+Miss,1,30.0,YoungAdult,56.9292,Very High,Upper,0,0,1,True,False,False,1
+Miss,1,24.0,YoungAdult,83.1583,Very High,Upper,0,0,1,True,False,False,1
+Miss,1,18.0,Teen,262.375,Very High,Upper,2,2,1,True,False,False,5
+Mrs,1,26.0,YoungAdult,26.0,High,Middle,1,1,0,False,False,True,3
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,43.0,Adult,26.25,High,Middle,1,1,0,False,False,True,3
+Miss,1,26.0,YoungAdult,7.8542,Low,Lower,0,0,1,False,False,True,1
+Mrs,1,24.0,YoungAdult,26.0,High,Middle,1,0,1,False,False,True,2
+Rare,0,54.0,Adult,14.0,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,31.0,YoungAdult,164.8667,Very High,Upper,0,2,1,False,False,True,3
+Mrs,1,40.0,Adult,134.5,Very High,Upper,1,1,1,True,False,False,3
+Mr,0,22.0,YoungAdult,7.25,Low,Lower,0,0,0,False,False,True,1
+Mr,0,27.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Miss,1,30.0,YoungAdult,12.35,Mid,Middle,0,0,1,False,True,False,1
+Mrs,1,22.0,YoungAdult,29.0,High,Middle,1,1,1,False,False,True,3
+Mr,0,28.0,YoungAdult,69.55,Very High,Lower,8,2,0,False,False,True,11
+Miss,1,36.0,Adult,135.6333,Very High,Upper,0,0,1,True,False,False,1
+Mr,0,61.0,Senior,6.2375,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,36.0,Adult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Mrs,1,31.0,YoungAdult,20.525,High,Lower,1,1,1,False,False,True,3
+Miss,1,16.0,Teen,57.9792,Very High,Upper,0,1,1,True,False,False,2
+Miss,1,28.0,YoungAdult,23.25,High,Lower,2,0,1,False,True,False,3
+Mr,0,45.5,Adult,28.5,High,Upper,0,0,0,False,False,True,1
+Mr,0,38.0,Adult,153.4625,Very High,Upper,0,1,0,False,False,True,2
+Mr,0,16.0,Teen,18.0,High,Lower,2,0,0,False,False,True,3
+Mrs,1,28.0,YoungAdult,133.65,Very High,Upper,1,0,1,False,False,True,2
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,29.0,YoungAdult,66.6,Very High,Upper,1,0,0,False,False,True,2
+Miss,1,41.0,Adult,134.5,Very High,Upper,0,0,1,True,False,False,1
+Mr,0,45.0,Adult,8.05,Mid,Lower,0,0,1,False,False,True,1
+Mr,0,45.0,Adult,35.5,Very High,Upper,0,0,0,False,False,True,1
+Master,0,2.0,Child,26.0,High,Middle,1,1,1,False,False,True,3
+Miss,1,24.0,YoungAdult,263.0,Very High,Upper,3,2,1,False,False,True,6
+Mr,0,28.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,25.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,36.0,Adult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,24.0,YoungAdult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Miss,1,40.0,Adult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Mrs,1,28.0,YoungAdult,16.1,High,Lower,1,0,1,False,False,True,2
+Master,0,3.0,Child,15.9,High,Lower,1,1,1,False,False,True,3
+Mr,0,42.0,Adult,8.6625,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,23.0,YoungAdult,9.225,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,35.0,Very High,Upper,0,0,0,False,False,True,1
+Mr,0,15.0,Teen,7.2292,Low,Lower,1,1,0,True,False,False,3
+Mr,0,25.0,YoungAdult,17.8,High,Lower,1,0,0,False,False,True,2
+Mr,0,28.0,YoungAdult,7.225,Low,Lower,0,0,0,True,False,False,1
+Mr,0,28.0,YoungAdult,9.5,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,22.0,YoungAdult,55.0,Very High,Upper,0,1,1,False,False,True,2
+Miss,1,38.0,Adult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,7.8792,Low,Lower,0,0,1,False,True,False,1
+Miss,1,28.0,YoungAdult,7.8792,Low,Lower,0,0,1,False,True,False,1
+Mr,0,40.0,Adult,27.9,High,Lower,1,4,0,False,False,True,6
+Mr,0,29.0,YoungAdult,27.7208,High,Middle,1,0,0,True,False,False,2
+Mrs,1,45.0,Adult,14.4542,Mid,Lower,0,1,0,True,False,False,2
+Mr,0,35.0,YoungAdult,7.05,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,15.5,High,Lower,1,0,0,False,True,False,2
+Mr,0,30.0,YoungAdult,7.25,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,60.0,Adult,75.25,Very High,Upper,1,0,1,True,False,False,2
+Mrs,1,28.0,YoungAdult,7.2292,Low,Lower,0,0,1,True,False,False,1
+Miss,1,28.0,YoungAdult,7.75,Low,Lower,0,0,1,False,True,False,1
+Mrs,1,24.0,YoungAdult,69.3,Very High,Upper,0,0,1,True,False,False,1
+Mr,0,25.0,YoungAdult,55.4417,Very High,Upper,1,0,1,True,False,False,2
+Mr,0,18.0,Teen,6.4958,Low,Lower,1,0,0,False,False,True,2
+Mr,0,19.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,22.0,YoungAdult,135.6333,Very High,Upper,0,0,0,True,False,False,1
+Miss,1,3.0,Child,21.075,High,Lower,3,1,0,False,False,True,5
+Mrs,1,28.0,YoungAdult,82.1708,Very High,Upper,1,0,1,True,False,False,2
+Miss,1,22.0,YoungAdult,7.25,Low,Lower,0,0,1,False,False,True,1
+Mr,0,27.0,YoungAdult,211.5,Very High,Upper,0,2,0,True,False,False,3
+Mr,0,20.0,YoungAdult,4.0125,Low,Lower,0,0,0,True,False,False,1
+Mr,0,19.0,YoungAdult,7.775,Low,Lower,0,0,0,False,False,True,1
+Miss,1,42.0,Adult,227.525,Very High,Upper,0,0,1,True,False,False,1
+Miss,1,1.0,Child,15.7417,High,Lower,0,2,1,True,False,False,3
+Mr,0,32.0,YoungAdult,7.925,Mid,Lower,0,0,0,False,False,True,1
+Mrs,1,35.0,YoungAdult,52.0,Very High,Upper,1,0,1,False,False,True,2
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,18.0,Teen,73.5,Very High,Middle,0,0,0,False,False,True,1
+Master,0,1.0,Child,46.9,Very High,Lower,5,2,0,False,False,True,8
+Miss,1,36.0,Adult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,7.7292,Low,Lower,0,0,0,False,True,False,1
+Miss,1,17.0,Teen,12.0,Mid,Middle,0,0,1,True,False,False,1
+Mr,0,36.0,Adult,120.0,Very High,Upper,1,2,1,False,False,True,4
+Mr,0,21.0,YoungAdult,7.7958,Low,Lower,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,7.925,Mid,Lower,2,0,0,False,False,True,3
+Miss,1,23.0,YoungAdult,113.275,Very High,Upper,1,0,1,True,False,False,2
+Mrs,1,24.0,YoungAdult,16.7,High,Lower,0,2,1,False,False,True,3
+Mr,0,22.0,YoungAdult,7.7958,Low,Lower,0,0,0,False,False,True,1
+Miss,1,31.0,YoungAdult,7.8542,Low,Lower,0,0,0,False,False,True,1
+Mr,0,46.0,Adult,26.0,High,Middle,0,0,0,False,False,True,1
+Rare,0,23.0,YoungAdult,10.5,Mid,Middle,0,0,0,False,False,True,1
+Mrs,1,28.0,YoungAdult,12.65,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,39.0,Adult,7.925,Mid,Lower,0,0,1,False,False,True,1
+Mr,0,26.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,21.0,YoungAdult,9.825,Mid,Lower,1,0,0,False,False,True,2
+Mr,0,28.0,YoungAdult,15.85,High,Lower,1,0,0,False,False,True,2
+Miss,1,20.0,YoungAdult,8.6625,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,34.0,YoungAdult,21.0,High,Middle,1,0,0,False,False,True,2
+Mr,0,51.0,Adult,7.75,Low,Lower,0,0,0,False,False,True,1
+Master,0,3.0,Child,18.75,High,Middle,1,1,1,False,False,True,3
+Mr,0,21.0,YoungAdult,7.775,Low,Lower,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,25.4667,High,Lower,3,1,0,False,False,True,5
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,6.8583,Low,Lower,0,0,0,False,True,False,1
+Miss,1,33.0,YoungAdult,90.0,Very High,Upper,1,0,1,False,True,False,2
+Mr,0,28.0,YoungAdult,0.0,Low,Middle,0,0,0,False,False,True,1
+Mr,0,44.0,Adult,7.925,Mid,Lower,0,0,1,False,False,True,1
+Mrs,1,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mrs,1,34.0,YoungAdult,32.5,Very High,Middle,1,1,1,False,False,True,3
+Miss,1,18.0,Teen,13.0,Mid,Middle,0,2,1,False,False,True,3
+Mr,0,30.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,10.0,Child,24.15,High,Lower,0,2,0,False,False,True,3
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,True,False,False,1
+Mr,0,21.0,YoungAdult,7.7333,Low,Lower,0,0,0,False,True,False,1
+Mr,0,29.0,YoungAdult,7.875,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,28.0,YoungAdult,14.4,Mid,Lower,1,1,0,False,False,True,3
+Mr,0,18.0,Teen,20.2125,High,Lower,1,1,0,False,False,True,3
+Mr,0,28.0,YoungAdult,7.25,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,28.0,YoungAdult,26.0,High,Middle,1,0,1,False,False,True,2
+Miss,1,19.0,YoungAdult,26.0,High,Middle,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,32.0,YoungAdult,8.05,Mid,Lower,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,26.55,High,Upper,0,0,1,False,False,True,1
+Mrs,1,28.0,YoungAdult,16.1,High,Lower,1,0,1,False,False,True,2
+Mrs,1,42.0,Adult,26.0,High,Middle,1,0,1,False,False,True,2
+Mr,0,17.0,Teen,7.125,Low,Lower,0,0,0,False,False,True,1
+Mr,0,50.0,Adult,55.9,Very High,Upper,1,0,0,False,False,True,2
+Miss,1,14.0,Teen,120.0,Very High,Upper,1,2,1,False,False,True,4
+Miss,1,21.0,YoungAdult,34.375,Very High,Lower,2,2,0,False,False,True,5
+Mrs,1,24.0,YoungAdult,18.75,High,Middle,2,3,1,False,False,True,6
+Mr,0,64.0,Senior,263.0,Very High,Upper,1,4,0,False,False,True,6
+Mr,0,31.0,YoungAdult,10.5,Mid,Middle,0,0,0,False,False,True,1
+Mrs,1,45.0,Adult,26.25,High,Middle,1,1,1,False,False,True,3
+Mr,0,20.0,YoungAdult,9.5,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,25.0,YoungAdult,7.775,Low,Lower,1,0,0,False,False,True,2
+Miss,1,28.0,YoungAdult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,8.1125,Mid,Lower,0,0,1,False,False,True,1
+Master,0,4.0,Child,81.8583,Very High,Upper,0,2,1,False,False,True,3
+Miss,1,13.0,Teen,19.5,High,Middle,0,1,1,False,False,True,2
+Mr,0,34.0,YoungAdult,26.55,High,Upper,0,0,1,False,False,True,1
+Miss,1,5.0,Child,19.2583,High,Lower,2,1,1,True,False,False,4
+Rare,0,52.0,Adult,30.5,High,Upper,0,0,1,False,False,True,1
+Mr,0,36.0,Adult,27.75,High,Middle,1,2,0,False,False,True,4
+Mr,0,28.0,YoungAdult,19.9667,High,Lower,1,0,0,False,False,True,2
+Mr,0,30.0,YoungAdult,27.75,High,Upper,0,0,0,True,False,False,1
+Mr,0,49.0,Adult,89.1042,Very High,Upper,1,0,1,True,False,False,2
+Mr,0,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,29.0,YoungAdult,7.8958,Low,Lower,0,0,1,True,False,False,1
+Mr,0,65.0,Senior,26.55,High,Upper,0,0,0,False,False,True,1
+Mrs,1,28.0,YoungAdult,51.8625,Very High,Upper,1,0,1,False,False,True,2
+Miss,1,50.0,Adult,10.5,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,48.0,Adult,26.55,High,Upper,0,0,1,False,False,True,1
+Mr,0,34.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,47.0,Adult,38.5,Very High,Upper,0,0,0,False,False,True,1
+Mr,0,48.0,Adult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,38.0,Adult,7.05,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,0.0,Low,Middle,0,0,0,False,False,True,1
+Mr,0,56.0,Adult,26.55,High,Upper,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.725,Low,Lower,0,0,0,False,True,False,1
+Miss,1,0.75,Child,19.2583,High,Lower,2,1,1,True,False,False,4
+Mr,0,28.0,YoungAdult,7.25,Low,Lower,0,0,0,False,False,True,1
+Mr,0,38.0,Adult,8.6625,Mid,Lower,0,0,0,False,False,True,1
+Mrs,1,33.0,YoungAdult,27.75,High,Middle,1,2,1,False,False,True,4
+Mrs,1,23.0,YoungAdult,13.7917,Mid,Middle,0,0,1,True,False,False,1
+Miss,1,22.0,YoungAdult,9.8375,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,52.0,Very High,Upper,0,0,0,False,False,True,1
+Mr,0,34.0,YoungAdult,21.0,High,Middle,1,0,0,False,False,True,2
+Mr,0,29.0,YoungAdult,7.0458,Low,Lower,1,0,0,False,False,True,2
+Mr,0,22.0,YoungAdult,7.5208,Low,Lower,0,0,0,False,False,True,1
+Miss,1,2.0,Child,12.2875,Mid,Lower,0,1,1,False,False,True,2
+Master,0,9.0,Child,46.9,Very High,Lower,5,2,0,False,False,True,8
+Mr,0,28.0,YoungAdult,0.0,Low,Middle,0,0,0,False,False,True,1
+Mr,0,50.0,Adult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mrs,1,63.0,Senior,9.5875,Mid,Lower,0,0,1,False,False,True,1
+Mr,0,25.0,YoungAdult,91.0792,Very High,Upper,1,0,1,True,False,False,2
+Miss,1,28.0,YoungAdult,25.4667,High,Lower,3,1,0,False,False,True,5
+Mrs,1,35.0,YoungAdult,90.0,Very High,Upper,1,0,1,False,False,True,2
+Mr,0,58.0,Adult,29.7,High,Upper,0,0,0,True,False,False,1
+Mr,0,30.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Master,0,9.0,Child,15.9,High,Lower,1,1,1,False,False,True,3
+Mr,0,28.0,YoungAdult,19.9667,High,Lower,1,0,0,False,False,True,2
+Mr,0,21.0,YoungAdult,7.25,Low,Lower,0,0,0,False,False,True,1
+Mr,0,55.0,Adult,30.5,High,Upper,0,0,0,False,False,True,1
+Mr,0,71.0,Senior,49.5042,Very High,Upper,0,0,0,True,False,False,1
+Mr,0,21.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,14.4583,High,Lower,0,0,0,True,False,False,1
+Miss,1,54.0,Adult,78.2667,Very High,Upper,1,0,1,True,False,False,2
+Mr,0,28.0,YoungAdult,15.1,High,Lower,0,0,0,False,False,True,1
+Mrs,1,25.0,YoungAdult,151.55,Very High,Upper,1,2,0,False,False,True,4
+Mr,0,24.0,YoungAdult,7.7958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,17.0,Teen,8.6625,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,21.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Miss,1,28.0,YoungAdult,7.6292,Low,Lower,0,0,0,False,True,False,1
+Miss,1,37.0,Adult,9.5875,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,16.0,Teen,86.5,Very High,Upper,0,0,1,False,False,True,1
+Mr,0,18.0,Teen,108.9,Very High,Upper,1,0,0,True,False,False,2
+Mrs,1,33.0,YoungAdult,26.0,High,Middle,0,2,1,False,False,True,3
+Mr,0,28.0,YoungAdult,26.55,High,Upper,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,22.525,High,Lower,0,0,0,False,False,True,1
+Mr,0,26.0,YoungAdult,56.4958,Very High,Lower,0,0,1,False,False,True,1
+Mr,0,29.0,YoungAdult,7.75,Low,Lower,0,0,1,False,True,False,1
+Mr,0,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,36.0,Adult,26.2875,High,Upper,0,0,1,False,False,True,1
+Mrs,1,54.0,Adult,59.4,Very High,Upper,1,0,1,True,False,False,2
+Mr,0,24.0,YoungAdult,7.4958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,47.0,Adult,34.0208,Very High,Upper,0,0,0,False,False,True,1
+Mrs,1,34.0,YoungAdult,10.5,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,24.15,High,Lower,0,0,0,False,True,False,1
+Mrs,1,36.0,Adult,26.0,High,Middle,1,0,1,False,False,True,2
+Mr,0,32.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Miss,1,30.0,YoungAdult,93.5,Very High,Upper,0,0,1,False,False,True,1
+Mr,0,22.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.225,Low,Lower,0,0,0,True,False,False,1
+Mrs,1,44.0,Adult,57.9792,Very High,Upper,0,1,1,True,False,False,2
+Mr,0,28.0,YoungAdult,7.2292,Low,Lower,0,0,0,True,False,False,1
+Mr,0,40.5,Adult,7.75,Low,Lower,0,0,0,False,True,False,1
+Miss,1,50.0,Adult,10.5,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,221.7792,Very High,Upper,0,0,0,False,False,True,1
+Mr,0,39.0,Adult,7.925,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,23.0,YoungAdult,11.5,Mid,Middle,2,1,0,False,False,True,4
+Miss,1,2.0,Child,26.0,High,Middle,1,1,1,False,False,True,3
+Mr,0,28.0,YoungAdult,7.2292,Low,Lower,0,0,0,True,False,False,1
+Mr,0,17.0,Teen,7.2292,Low,Lower,1,1,0,True,False,False,3
+Mrs,1,28.0,YoungAdult,22.3583,High,Lower,0,2,1,True,False,False,3
+Miss,1,30.0,YoungAdult,8.6625,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,7.0,Child,26.25,High,Middle,0,2,1,False,False,True,3
+Rare,0,45.0,Adult,26.55,High,Upper,0,0,0,False,False,True,1
+Miss,1,30.0,YoungAdult,106.425,Very High,Upper,0,0,1,True,False,False,1
+Mr,0,28.0,YoungAdult,14.5,High,Lower,0,0,0,False,False,True,1
+Miss,1,22.0,YoungAdult,49.5,Very High,Upper,0,2,1,True,False,False,3
+Miss,1,36.0,Adult,71.0,Very High,Upper,0,2,1,False,False,True,3
+Miss,1,9.0,Child,31.275,Very High,Lower,4,2,0,False,False,True,7
+Miss,1,11.0,Child,31.275,Very High,Lower,4,2,0,False,False,True,7
+Mr,0,32.0,YoungAdult,26.0,High,Middle,1,0,1,False,False,True,2
+Mr,0,50.0,Adult,106.425,Very High,Upper,1,0,0,True,False,False,2
+Mr,0,64.0,Senior,26.0,High,Upper,0,0,0,False,False,True,1
+Mrs,1,19.0,YoungAdult,26.0,High,Middle,1,0,1,False,False,True,2
+Mr,0,28.0,YoungAdult,13.8625,Mid,Middle,0,0,1,True,False,False,1
+Mr,0,33.0,YoungAdult,20.525,High,Lower,1,1,0,False,False,True,3
+Master,0,8.0,Child,36.75,Very High,Middle,1,1,1,False,False,True,3
+Mr,0,17.0,Teen,110.8833,Very High,Upper,0,2,1,True,False,False,3
+Mr,0,27.0,YoungAdult,26.0,High,Middle,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.8292,Low,Lower,0,0,0,False,True,False,1
+Mr,0,22.0,YoungAdult,7.225,Low,Lower,0,0,1,True,False,False,1
+Miss,1,22.0,YoungAdult,7.775,Low,Lower,0,0,1,False,False,True,1
+Mr,0,62.0,Senior,26.55,High,Upper,0,0,0,False,False,True,1
+Rare,1,48.0,Adult,39.6,Very High,Upper,1,0,1,True,False,False,2
+Mr,0,28.0,YoungAdult,227.525,Very High,Upper,0,0,0,True,False,False,1
+Mrs,1,39.0,Adult,79.65,Very High,Upper,1,1,1,False,False,True,3
+Mrs,1,36.0,Adult,17.4,High,Lower,1,0,1,False,False,True,2
+Mr,0,28.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,40.0,Adult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,13.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,24.0,YoungAdult,24.15,High,Lower,2,0,0,False,False,True,3
+Mr,0,19.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,29.0,YoungAdult,21.075,High,Lower,0,4,0,False,False,True,5
+Mr,0,28.0,YoungAdult,7.2292,Low,Lower,0,0,0,True,False,False,1
+Mr,0,32.0,YoungAdult,7.8542,Low,Lower,0,0,1,False,False,True,1
+Mr,0,62.0,Senior,10.5,Mid,Middle,0,0,1,False,False,True,1
+Mrs,1,53.0,Adult,51.4792,Very High,Upper,2,0,1,False,False,True,3
+Mr,0,36.0,Adult,26.3875,High,Upper,0,0,1,False,False,True,1
+Miss,1,28.0,YoungAdult,7.75,Low,Lower,0,0,1,False,True,False,1
+Mr,0,16.0,Teen,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,19.0,YoungAdult,14.5,High,Lower,0,0,0,False,False,True,1
+Miss,1,34.0,YoungAdult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Mrs,1,39.0,Adult,55.9,Very High,Upper,1,0,1,False,False,True,2
+Mrs,1,28.0,YoungAdult,14.4583,High,Lower,1,0,0,True,False,False,2
+Mr,0,32.0,YoungAdult,7.925,Mid,Lower,0,0,1,False,False,True,1
+Miss,1,25.0,YoungAdult,30.0,High,Middle,1,1,1,False,False,True,3
+Mrs,1,39.0,Adult,110.8833,Very High,Upper,1,1,1,True,False,False,3
+Mr,0,54.0,Adult,26.0,High,Middle,0,0,0,False,False,True,1
+Mr,0,36.0,Adult,40.125,Very High,Upper,0,0,0,True,False,False,1
+Mr,0,28.0,YoungAdult,8.7125,Mid,Lower,0,0,0,True,False,False,1
+Miss,1,18.0,Teen,79.65,Very High,Upper,0,2,1,False,False,True,3
+Mr,0,47.0,Adult,15.0,High,Middle,0,0,0,False,False,True,1
+Mr,0,60.0,Adult,79.2,Very High,Upper,1,1,1,True,False,False,3
+Mr,0,22.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,35.0,YoungAdult,7.125,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,52.0,Adult,78.2667,Very High,Upper,1,0,1,True,False,False,2
+Mr,0,47.0,Adult,7.25,Low,Lower,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,7.75,Low,Lower,0,2,0,False,True,False,3
+Mr,0,37.0,Adult,26.0,High,Middle,1,0,0,False,False,True,2
+Mr,0,36.0,Adult,24.15,High,Lower,1,1,0,False,False,True,3
+Miss,1,28.0,YoungAdult,33.0,Very High,Middle,0,0,1,False,False,True,1
+Mr,0,49.0,Adult,0.0,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.225,Low,Lower,0,0,0,True,False,False,1
+Rare,0,49.0,Adult,56.9292,Very High,Upper,1,0,1,True,False,False,2
+Mrs,1,24.0,YoungAdult,27.0,High,Middle,2,1,1,False,False,True,4
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,42.4,Very High,Upper,0,0,0,False,False,True,1
+Mr,0,44.0,Adult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,35.0,YoungAdult,26.55,High,Upper,0,0,1,True,False,False,1
+Mr,0,36.0,Adult,15.55,High,Lower,1,0,0,False,False,True,2
+Mr,0,30.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,27.0,YoungAdult,30.5,High,Upper,0,0,1,False,False,True,1
+Mrs,1,22.0,YoungAdult,41.5792,Very High,Middle,1,2,1,True,False,False,4
+Miss,1,40.0,Adult,153.4625,Very High,Upper,0,0,1,False,False,True,1
+Mrs,1,39.0,Adult,31.275,Very High,Lower,1,5,0,False,False,True,7
+Mr,0,28.0,YoungAdult,7.05,Low,Lower,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,15.5,High,Lower,1,0,1,False,True,False,2
+Mr,0,28.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,35.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,24.0,YoungAdult,65.0,Very High,Middle,1,2,1,False,False,True,4
+Mr,0,34.0,YoungAdult,14.4,Mid,Lower,1,1,0,False,False,True,3
+Mrs,1,26.0,YoungAdult,16.1,High,Lower,1,0,0,False,False,True,2
+Miss,1,4.0,Child,39.0,Very High,Middle,2,1,1,False,False,True,4
+Mr,0,26.0,YoungAdult,10.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,27.0,YoungAdult,14.4542,Mid,Lower,1,0,0,True,False,False,2
+Mr,0,42.0,Adult,52.5542,Very High,Upper,1,0,1,False,False,True,2
+Mr,0,20.0,YoungAdult,15.7417,High,Lower,1,1,1,True,False,False,3
+Mr,0,21.0,YoungAdult,7.8542,Low,Lower,0,0,0,False,False,True,1
+Mr,0,21.0,YoungAdult,16.1,High,Lower,0,0,0,False,False,True,1
+Mr,0,61.0,Senior,32.3208,Very High,Upper,0,0,0,False,False,True,1
+Rare,0,57.0,Adult,12.35,Mid,Middle,0,0,0,False,True,False,1
+Miss,1,21.0,YoungAdult,77.9583,Very High,Upper,0,0,1,False,False,True,1
+Mr,0,26.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.7333,Low,Lower,0,0,0,False,True,False,1
+Mr,0,80.0,Senior,30.0,High,Upper,0,0,1,False,False,True,1
+Mr,0,51.0,Adult,7.0542,Low,Lower,0,0,0,False,False,True,1
+Rare,0,32.0,YoungAdult,30.5,High,Upper,0,0,1,True,False,False,1
+Mr,0,28.0,YoungAdult,0.0,Low,Upper,0,0,0,False,False,True,1
+Miss,1,9.0,Child,27.9,High,Lower,3,2,0,False,False,True,6
+Miss,1,28.0,YoungAdult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,32.0,YoungAdult,7.925,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,31.0,YoungAdult,26.25,High,Middle,1,1,0,False,False,True,3
+Mrs,1,41.0,Adult,39.6875,Very High,Lower,0,5,0,False,False,True,6
+Mr,0,28.0,YoungAdult,16.1,High,Lower,1,0,0,False,False,True,2
+Mr,0,20.0,YoungAdult,7.8542,Low,Lower,0,0,0,False,False,True,1
+Miss,1,24.0,YoungAdult,69.3,Very High,Upper,0,0,1,True,False,False,1
+Miss,1,2.0,Child,27.9,High,Lower,3,2,0,False,False,True,6
+Mr,0,28.0,YoungAdult,56.4958,Very High,Lower,0,0,1,False,False,True,1
+Miss,1,0.75,Child,19.2583,High,Lower,2,1,1,True,False,False,4
+Mr,0,48.0,Adult,76.7292,Very High,Upper,1,0,1,True,False,False,2
+Mr,0,19.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Rare,0,56.0,Adult,35.5,Very High,Upper,0,0,1,True,False,False,1
+Mr,0,28.0,YoungAdult,7.55,Low,Lower,0,0,0,False,False,True,1
+Miss,1,23.0,YoungAdult,7.55,Low,Lower,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Miss,1,18.0,Teen,23.0,High,Middle,0,1,1,False,False,True,2
+Mr,0,21.0,YoungAdult,8.4333,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,7.8292,Low,Lower,0,0,1,False,True,False,1
+Miss,1,18.0,Teen,6.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,24.0,YoungAdult,73.5,Very High,Middle,2,0,0,False,False,True,3
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,32.0,YoungAdult,15.5,High,Lower,1,1,0,False,True,False,3
+Mr,0,23.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,58.0,Adult,113.275,Very High,Upper,0,2,0,True,False,False,3
+Rare,0,50.0,Adult,133.65,Very High,Upper,2,0,1,False,False,True,3
+Mr,0,40.0,Adult,7.225,Low,Lower,0,0,0,True,False,False,1
+Mr,0,47.0,Adult,25.5875,High,Upper,0,0,0,False,False,True,1
+Mr,0,36.0,Adult,7.4958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,20.0,YoungAdult,7.925,Mid,Lower,1,0,1,False,False,True,2
+Mr,0,32.0,YoungAdult,73.5,Very High,Middle,2,0,0,False,False,True,3
+Mr,0,25.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.775,Low,Lower,0,0,0,False,False,True,1
+Mr,0,43.0,Adult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mrs,1,28.0,YoungAdult,52.0,Very High,Upper,1,0,1,False,False,True,2
+Mrs,1,40.0,Adult,39.0,Very High,Middle,1,1,1,False,False,True,3
+Mr,0,31.0,YoungAdult,52.0,Very High,Upper,1,0,0,False,False,True,2
+Mr,0,70.0,Senior,10.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,31.0,YoungAdult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,0.0,Low,Middle,0,0,0,False,False,True,1
+Mr,0,18.0,Teen,7.775,Low,Lower,0,0,0,False,False,True,1
+Mr,0,24.5,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,18.0,Teen,9.8417,Mid,Lower,0,0,1,False,False,True,1
+Mrs,1,43.0,Adult,46.9,Very High,Lower,1,6,0,False,False,True,8
+Mr,0,36.0,Adult,512.3292,Very High,Upper,0,1,1,True,False,False,2
+Miss,1,28.0,YoungAdult,8.1375,Mid,Lower,0,0,0,False,True,False,1
+Mr,0,27.0,YoungAdult,76.7292,Very High,Upper,0,0,1,True,False,False,1
+Mr,0,20.0,YoungAdult,9.225,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,14.0,Teen,46.9,Very High,Lower,5,2,0,False,False,True,8
+Mr,0,60.0,Adult,39.0,Very High,Middle,1,1,0,False,False,True,3
+Mr,0,25.0,YoungAdult,41.5792,Very High,Middle,1,2,0,True,False,False,4
+Mr,0,14.0,Teen,39.6875,Very High,Lower,4,1,0,False,False,True,6
+Mr,0,19.0,YoungAdult,10.1708,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,18.0,Teen,7.7958,Low,Lower,0,0,0,False,False,True,1
+Miss,1,15.0,Teen,211.3375,Very High,Upper,0,1,1,False,False,True,2
+Mr,0,31.0,YoungAdult,57.0,Very High,Upper,1,0,1,False,False,True,2
+Miss,1,4.0,Child,13.4167,Mid,Lower,0,1,1,True,False,False,2
+Mr,0,28.0,YoungAdult,56.4958,Very High,Lower,0,0,1,False,False,True,1
+Mr,0,25.0,YoungAdult,7.225,Low,Lower,0,0,0,True,False,False,1
+Rare,0,60.0,Adult,26.55,High,Upper,0,0,0,False,False,True,1
+Mr,0,52.0,Adult,13.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,44.0,Adult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,7.7333,Low,Lower,0,0,1,False,True,False,1
+Mr,0,49.0,Adult,110.8833,Very High,Upper,1,1,0,True,False,False,3
+Mr,0,42.0,Adult,7.65,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,18.0,Teen,227.525,Very High,Upper,1,0,1,True,False,False,2
+Mr,0,35.0,YoungAdult,26.2875,High,Upper,0,0,1,False,False,True,1
+Miss,1,18.0,Teen,14.4542,Mid,Lower,0,1,0,True,False,False,2
+Mr,0,25.0,YoungAdult,7.7417,Low,Lower,0,0,0,False,True,False,1
+Mr,0,26.0,YoungAdult,7.8542,Low,Lower,1,0,0,False,False,True,2
+Mr,0,39.0,Adult,26.0,High,Middle,0,0,0,False,False,True,1
+Mrs,1,45.0,Adult,13.5,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,42.0,Adult,26.2875,High,Upper,0,0,1,False,False,True,1
+Miss,1,22.0,YoungAdult,151.55,Very High,Upper,0,0,1,False,False,True,1
+Master,0,28.0,YoungAdult,15.2458,High,Lower,1,1,1,True,False,False,3
+Miss,1,24.0,YoungAdult,49.5042,Very High,Upper,0,0,1,True,False,False,1
+Mr,0,28.0,YoungAdult,26.55,High,Upper,0,0,0,False,False,True,1
+Mr,0,48.0,Adult,52.0,Very High,Upper,1,0,1,False,False,True,2
+Mr,0,29.0,YoungAdult,9.4833,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,52.0,Adult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,19.0,YoungAdult,7.65,Low,Lower,0,0,0,False,False,True,1
+Miss,1,38.0,Adult,227.525,Very High,Upper,0,0,1,True,False,False,1
+Miss,1,27.0,YoungAdult,10.5,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,15.5,High,Lower,0,0,0,False,True,False,1
+Mr,0,33.0,YoungAdult,7.775,Low,Lower,0,0,0,False,False,True,1
+Miss,1,6.0,Child,33.0,Very High,Middle,0,1,1,False,False,True,2
+Mr,0,17.0,Teen,7.0542,Low,Lower,1,0,0,False,False,True,2
+Mr,0,34.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,50.0,Adult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,27.0,YoungAdult,53.1,Very High,Upper,1,0,1,False,False,True,2
+Mr,0,20.0,YoungAdult,8.6625,Mid,Lower,0,0,0,False,False,True,1
+Mrs,1,30.0,YoungAdult,21.0,High,Middle,3,0,1,False,False,True,4
+Miss,1,28.0,YoungAdult,7.7375,Low,Lower,0,0,1,False,True,False,1
+Mr,0,25.0,YoungAdult,26.0,High,Middle,1,0,0,False,False,True,2
+Miss,1,25.0,YoungAdult,7.925,Mid,Lower,1,0,0,False,False,True,2
+Miss,1,29.0,YoungAdult,211.3375,Very High,Upper,0,0,1,False,False,True,1
+Mr,0,11.0,Child,18.7875,High,Lower,0,0,0,True,False,False,1
+Mr,0,28.0,YoungAdult,0.0,Low,Middle,0,0,0,False,False,True,1
+Mr,0,23.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,23.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,28.5,YoungAdult,16.1,High,Lower,0,0,0,False,False,True,1
+Mrs,1,48.0,Adult,34.375,Very High,Lower,1,3,0,False,False,True,5
+Mr,0,35.0,YoungAdult,512.3292,Very High,Upper,0,0,1,True,False,False,1
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,30.0,High,Upper,0,0,1,False,False,True,1
+Mr,0,36.0,Adult,78.85,Very High,Upper,1,0,0,False,False,True,2
+Miss,1,21.0,YoungAdult,262.375,Very High,Upper,2,2,1,True,False,False,5
+Mr,0,24.0,YoungAdult,16.1,High,Lower,1,0,0,False,False,True,2
+Mr,0,31.0,YoungAdult,7.925,Mid,Lower,0,0,1,False,False,True,1
+Rare,0,70.0,Senior,71.0,Very High,Upper,1,1,0,False,False,True,3
+Mr,0,16.0,Teen,20.25,High,Lower,1,1,0,False,False,True,3
+Miss,1,30.0,YoungAdult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Mr,0,19.0,YoungAdult,53.1,Very High,Upper,1,0,0,False,False,True,2
+Mr,0,31.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Miss,1,4.0,Child,23.0,High,Middle,1,1,1,False,False,True,3
+Master,0,6.0,Child,12.475,Mid,Lower,0,1,1,False,False,True,2
+Mr,0,33.0,YoungAdult,9.5,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,23.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,48.0,Adult,65.0,Very High,Middle,1,2,1,False,False,True,4
+Master,0,0.67,Child,14.5,High,Middle,1,1,1,False,False,True,3
+Mr,0,28.0,YoungAdult,7.7958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,18.0,Teen,11.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,34.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Rare,1,33.0,YoungAdult,86.5,Very High,Upper,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,14.5,High,Lower,0,0,0,False,False,True,1
+Mr,0,41.0,Adult,7.125,Low,Lower,0,0,0,False,False,True,1
+Mr,0,20.0,YoungAdult,7.2292,Low,Lower,0,0,1,True,False,False,1
+Mrs,1,36.0,Adult,120.0,Very High,Upper,1,2,1,False,False,True,4
+Mr,0,16.0,Teen,7.775,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,51.0,Adult,77.9583,Very High,Upper,1,0,1,False,False,True,2
+Rare,0,28.0,YoungAdult,39.6,Very High,Upper,0,0,0,True,False,False,1
+Miss,1,30.5,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,28.0,YoungAdult,24.15,High,Lower,1,0,0,False,True,False,2
+Mr,0,32.0,YoungAdult,8.3625,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,24.0,YoungAdult,9.5,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,48.0,Adult,7.8542,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,57.0,Adult,10.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.225,Low,Lower,0,0,0,True,False,False,1
+Mrs,1,54.0,Adult,23.0,High,Middle,1,3,1,False,False,True,5
+Mr,0,18.0,Teen,7.75,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Miss,1,5.0,Child,12.475,Mid,Lower,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,7.7375,Low,Lower,0,0,0,False,True,False,1
+Mrs,1,43.0,Adult,211.3375,Very High,Upper,0,1,1,False,False,True,2
+Miss,1,13.0,Teen,7.2292,Low,Lower,0,0,1,True,False,False,1
+Mrs,1,17.0,Teen,57.0,Very High,Upper,1,0,1,False,False,True,2
+Mr,0,29.0,YoungAdult,30.0,High,Upper,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,23.45,High,Lower,1,2,0,False,False,True,4
+Mr,0,25.0,YoungAdult,7.05,Low,Lower,0,0,0,False,False,True,1
+Mr,0,25.0,YoungAdult,7.25,Low,Lower,0,0,0,False,False,True,1
+Miss,1,18.0,Teen,7.4958,Low,Lower,0,0,1,False,False,True,1
+Master,0,8.0,Child,29.125,High,Lower,4,1,0,False,True,False,6
+Master,0,1.0,Child,20.575,High,Lower,1,2,1,False,False,True,4
+Mr,0,46.0,Adult,79.2,Very High,Upper,0,0,0,True,False,False,1
+Mr,0,28.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
+Mr,0,16.0,Teen,26.0,High,Middle,0,0,0,False,False,True,1
+Miss,1,28.0,YoungAdult,69.55,Very High,Lower,8,2,0,False,False,True,11
+Mr,0,28.0,YoungAdult,30.6958,High,Upper,0,0,0,True,False,False,1
+Mr,0,25.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,39.0,Adult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Rare,1,49.0,Adult,25.9292,High,Upper,0,0,1,False,False,True,1
+Mrs,1,31.0,YoungAdult,8.6833,Mid,Lower,0,0,1,False,False,True,1
+Mr,0,30.0,YoungAdult,7.2292,Low,Lower,0,0,0,True,False,False,1
+Mrs,1,30.0,YoungAdult,24.15,High,Lower,1,1,0,False,False,True,3
+Mr,0,34.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mrs,1,31.0,YoungAdult,26.25,High,Middle,1,1,1,False,False,True,3
+Master,0,11.0,Child,120.0,Very High,Upper,1,2,1,False,False,True,4
+Master,0,0.42,Child,8.5167,Mid,Lower,0,1,1,True,False,False,2
+Mr,0,27.0,YoungAdult,6.975,Low,Lower,0,0,1,False,False,True,1
+Mr,0,31.0,YoungAdult,7.775,Low,Lower,0,0,0,False,False,True,1
+Mr,0,39.0,Adult,0.0,Low,Upper,0,0,0,False,False,True,1
+Miss,1,18.0,Teen,7.775,Low,Lower,0,0,0,False,False,True,1
+Mr,0,39.0,Adult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mrs,1,33.0,YoungAdult,53.1,Very High,Upper,1,0,1,False,False,True,2
+Mr,0,26.0,YoungAdult,7.8875,Low,Lower,0,0,0,False,False,True,1
+Mr,0,39.0,Adult,24.15,High,Lower,0,0,0,False,False,True,1
+Mr,0,35.0,YoungAdult,10.5,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,6.0,Child,31.275,Very High,Lower,4,2,0,False,False,True,7
+Mr,0,30.5,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,0.0,Low,Upper,0,0,0,False,False,True,1
+Miss,1,23.0,YoungAdult,7.925,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,31.0,YoungAdult,37.0042,Very High,Middle,1,1,0,True,False,False,3
+Mr,0,43.0,Adult,6.45,Low,Lower,0,0,0,False,False,True,1
+Master,0,10.0,Child,27.9,High,Lower,3,2,0,False,False,True,6
+Mrs,1,52.0,Adult,93.5,Very High,Upper,1,1,1,False,False,True,3
+Mr,0,27.0,YoungAdult,8.6625,Mid,Lower,0,0,1,False,False,True,1
+Rare,0,38.0,Adult,0.0,Low,Upper,0,0,0,False,False,True,1
+Mrs,1,27.0,YoungAdult,12.475,Mid,Lower,0,1,1,False,False,True,2
+Master,0,2.0,Child,39.6875,Very High,Lower,4,1,0,False,False,True,6
+Mr,0,28.0,YoungAdult,6.95,Low,Lower,0,0,0,False,True,False,1
+Mr,0,28.0,YoungAdult,56.4958,Very High,Lower,0,0,0,False,False,True,1
+Master,0,1.0,Child,37.0042,Very High,Middle,0,2,1,True,False,False,3
+Mr,0,28.0,YoungAdult,7.75,Low,Lower,0,0,1,False,True,False,1
+Mrs,1,15.0,Teen,14.4542,Mid,Lower,1,0,1,True,False,False,2
+Master,0,0.83,Child,18.75,High,Middle,1,1,1,False,False,True,3
+Mr,0,28.0,YoungAdult,7.2292,Low,Lower,0,0,0,True,False,False,1
+Mr,0,23.0,YoungAdult,7.8542,Low,Lower,0,0,0,False,False,True,1
+Mr,0,18.0,Teen,8.3,Mid,Lower,0,0,0,False,False,True,1
+Miss,1,39.0,Adult,83.1583,Very High,Upper,1,1,1,True,False,False,3
+Mr,0,21.0,YoungAdult,8.6625,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,8.05,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,32.0,YoungAdult,56.4958,Very High,Lower,0,0,1,False,False,True,1
+Mr,0,28.0,YoungAdult,29.7,High,Upper,0,0,1,True,False,False,1
+Mr,0,20.0,YoungAdult,7.925,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,16.0,Teen,10.5,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,30.0,YoungAdult,31.0,High,Upper,0,0,1,True,False,False,1
+Mr,0,34.5,YoungAdult,6.4375,Low,Lower,0,0,0,True,False,False,1
+Mr,0,17.0,Teen,8.6625,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,42.0,Adult,7.55,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,69.55,Very High,Lower,8,2,0,False,False,True,11
+Mr,0,35.0,YoungAdult,7.8958,Low,Lower,0,0,0,True,False,False,1
+Rare,0,28.0,YoungAdult,33.0,Very High,Middle,0,1,0,False,False,True,2
+Mrs,1,28.0,YoungAdult,89.1042,Very High,Upper,1,0,1,True,False,False,2
+Master,0,4.0,Child,31.275,Very High,Lower,4,2,0,False,False,True,7
+Mr,0,74.0,Senior,7.775,Low,Lower,0,0,0,False,False,True,1
+Miss,1,9.0,Child,15.2458,High,Lower,1,1,0,True,False,False,3
+Miss,1,16.0,Teen,39.4,Very High,Upper,0,1,1,False,False,True,2
+Mrs,1,44.0,Adult,26.0,High,Middle,1,0,0,False,False,True,2
+Mrs,1,18.0,Teen,9.35,Mid,Lower,0,1,1,False,False,True,2
+Mrs,1,45.0,Adult,164.8667,Very High,Upper,1,1,1,False,False,True,3
+Mr,0,51.0,Adult,26.55,High,Upper,0,0,1,False,False,True,1
+Mrs,1,24.0,YoungAdult,19.2583,High,Lower,0,3,1,True,False,False,4
+Mr,0,28.0,YoungAdult,7.2292,Low,Lower,0,0,0,True,False,False,1
+Mr,0,41.0,Adult,14.1083,Mid,Lower,2,0,0,False,False,True,3
+Mr,0,21.0,YoungAdult,11.5,Mid,Middle,1,0,0,False,False,True,2
+Mrs,1,48.0,Adult,25.9292,High,Upper,0,0,1,False,False,True,1
+Miss,1,28.0,YoungAdult,69.55,Very High,Lower,8,2,0,False,False,True,11
+Mr,0,24.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Mrs,1,42.0,Adult,13.0,Mid,Middle,0,0,1,False,False,True,1
+Miss,1,27.0,YoungAdult,13.8583,Mid,Middle,1,0,1,True,False,False,2
+Mr,0,31.0,YoungAdult,50.4958,Very High,Upper,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,9.5,Mid,Lower,0,0,0,False,False,True,1
+Master,0,4.0,Child,11.1333,Mid,Lower,1,1,1,False,False,True,3
+Mr,0,26.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,47.0,Adult,52.5542,Very High,Upper,1,1,1,False,False,True,3
+Mr,0,33.0,YoungAdult,5.0,Low,Upper,0,0,0,False,False,True,1
+Mr,0,47.0,Adult,9.0,Mid,Lower,0,0,0,False,False,True,1
+Mrs,1,28.0,YoungAdult,24.0,High,Middle,1,0,1,True,False,False,2
+Miss,1,15.0,Teen,7.225,Low,Lower,0,0,1,True,False,False,1
+Mr,0,20.0,YoungAdult,9.8458,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,19.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,56.0,Adult,83.1583,Very High,Upper,0,1,1,True,False,False,2
+Mrs,1,25.0,YoungAdult,26.0,High,Middle,0,1,1,False,False,True,2
+Mr,0,33.0,YoungAdult,7.8958,Low,Lower,0,0,0,False,False,True,1
+Miss,1,22.0,YoungAdult,10.5167,Mid,Lower,0,0,0,False,False,True,1
+Mr,0,28.0,YoungAdult,10.5,Mid,Middle,0,0,0,False,False,True,1
+Mr,0,25.0,YoungAdult,7.05,Low,Lower,0,0,0,False,False,True,1
+Mrs,1,39.0,Adult,29.125,High,Lower,0,5,0,False,True,False,6
+Rare,0,27.0,YoungAdult,13.0,Mid,Middle,0,0,0,False,False,True,1
+Miss,1,19.0,YoungAdult,30.0,High,Upper,0,0,1,False,False,True,1
+Miss,1,28.0,YoungAdult,23.45,High,Lower,1,2,0,False,False,True,4
+Mr,0,26.0,YoungAdult,30.0,High,Upper,0,0,1,True,False,False,1
+Mr,0,32.0,YoungAdult,7.75,Low,Lower,0,0,0,False,True,False,1
